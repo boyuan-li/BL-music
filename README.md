@@ -1,3 +1,3 @@
 # music
 
-Composing music using MuseGAN
+Composing music using MuseGAN and Magenta
